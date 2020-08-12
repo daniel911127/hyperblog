@@ -1,9 +1,7 @@
 body{
-    color:#333;
+    color:red;
     text-align: left;
-<<<<<<< HEAD
     font-family: "Arial";
-=======
     font-family : 16px;
     margin: 0;
     padding: 0;
@@ -22,7 +20,6 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
->>>>>>> cabecera
 }
 #container
 {
